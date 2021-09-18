@@ -26,3 +26,15 @@ Part 2 is done in the `predict.py` file. Try it like this:
 cd image_classifier
 python3 predict.py --category_names label_map.json --top_k 8 test_images/wild_pansy.jpg image_classifier.h5
 ```
+
+# Unsupervised learning
+
+Project: **Identify customer segments**
+
+See result in the `identify_customer_segments` folder.
+
+The work is done in the [`Identify_Customer_Segments.ipynb`](identify_customer_segments/Identify_Customer_Segments.ipynb) notebook, and the finished resuot in the [`Identify_Customer_Segments.html`](identify_customer_segments/Identify_Customer_Segments.html) file.
+
+The data for this project is not available here due to legal restrictions.
+
+Here is [another very nice solution](https://jkarakas.github.io/Customer-Demographics-Segmentation-/Customer_Segmentation.html) to this project.
